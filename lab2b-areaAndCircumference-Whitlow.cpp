@@ -1,6 +1,6 @@
 //Jacob Whitlow
 //1-20-19
-//Gets the radius of a circle and computers the area and circumference
+//Gets the radius of a circle and computes the area and circumference
 
 #include<iostream>
 #include<string>
